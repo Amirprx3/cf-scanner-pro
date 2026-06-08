@@ -1,0 +1,3 @@
+# Cloudflare IPv4 ranges
+# Source: https://www.cloudflare.com/ips-v4
+173.245.48.0/20
