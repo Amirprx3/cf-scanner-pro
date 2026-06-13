@@ -33,7 +33,7 @@ quality scoring, TLS analysis, and export to CSV/JSON.
 ## Install
 
 ```bash
-git clone https://github.com/yourname/cf-scanner-pro
+git clone https://github.com/Amirprx3/cf-scanner-pro
 cd cf-scanner-pro
 pip install -r requirements.txt
 ```
